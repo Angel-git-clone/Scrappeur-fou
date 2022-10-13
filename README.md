@@ -11,7 +11,7 @@ We had to make a program that recovers the price of all cryptocurrencies and rec
 We had to retrieve the e-mail addresses of the town halls of the Val d'Oise and save the data in an array of hashes following this format.
 It was much more complicated than I thought but I am not discouraged!! 
 
-•Next tier: 
+•Next level: 
 
 # FullStack (here I am!)
 
