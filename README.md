@@ -3,9 +3,11 @@
 EN|
 
 •Dark Trader:
+
 We had to make a program that recovers the price of all cryptocurrencies and records them neatly in an array of hashes.
 
 •Town hall:
+
 We had to retrieve the e-mail addresses of the town halls of the Val d'Oise and save the data in an array of hashes following this format.
 It was much more complicated than I thought but I am not discouraged!! 
 
@@ -15,6 +17,7 @@ It was much more complicated than I thought but I am not discouraged!!
 
 
 FR|
+
 •Dark Trader:
 
   On devait faire un programme qui récupère le cours de toutes les cryptomonnaies et les enregistre bien proprement dans un array de hashs.
